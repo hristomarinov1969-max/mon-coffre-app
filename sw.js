@@ -1,7 +1,7 @@
-// Mon Coffre V7 — mise à jour du cache des fichiers publics uniquement.
+// Mon Coffre V8 — mise à jour du cache des fichiers publics uniquement.
 // Les fiches chiffrées restent dans le stockage local, hors de ce cache.
-const CACHE = 'moncoffre-v7-static-2';
-const ASSETS = ['./index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
+const CACHE = 'moncoffre-v8-static-2';
+const ASSETS = ['./index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './version.json'];
 
 self.addEventListener('install', event => {
   event.waitUntil((async () => {
@@ -29,7 +29,7 @@ self.addEventListener('fetch', event => {
   const request = event.request;
   if (request.method !== 'GET' || new URL(request.url).origin !== self.location.origin) return;
   const url = new URL(request.url);
-  const isNavigation = request.mode === 'navigate';
+  const isNavigation = request.mode === 'navigate' && url.pathname.startsWith(new URL('./', self.registration.scope).pathname);
   const isAppAsset = ASSETS.some(path => new URL(path, self.registration.scope).pathname === url.pathname);
   if (!isNavigation && !isAppAsset) return;
   event.respondWith((async () => {
@@ -46,3 +46,6 @@ self.addEventListener('fetch', event => {
     }
   })());
 });
+
+// Accept an explicit update request if a worker is waiting.
+self.addEventListener('message', event => {if (event.data && event.data.type === 'SKIP_WAITING') self.skipWaiting();});
