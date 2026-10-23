@@ -1,6 +1,6 @@
-// Mon Coffre V8.2 — mise à jour du cache des fichiers publics uniquement.
+// Mon Coffre V8.1 — mise à jour du cache des fichiers publics uniquement.
 // Les fiches chiffrées restent dans le stockage local, hors de ce cache.
-const CACHE = 'moncoffre-v8-2-static-1';
+const CACHE = 'moncoffre-v8-1-static-1';
 const ASSETS = ['./index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './version.json'];
 
 self.addEventListener('install', event => {
