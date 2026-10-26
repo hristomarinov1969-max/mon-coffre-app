@@ -1,3 +1,1 @@
-MarSe V9.3 — disposition validée.
-Documents masqués au départ; recherche et Afficher tout; dossiers et fichiers après clic; importer/exporter en bas; Mots de passe à gauche et Verrouiller à droite, hors cadre.
-Ne pas utiliser avec des données sensibles réelles.
+MarSe V9.4 — corrections ciblées. Recherche documents bilingue par translittération comme les mots de passe, sans renommer les fichiers. Diagnostic du partage Android. Le bouton Chiffré télécharge et tente de partager un .mardocs. Import/export restent au format V9.3. Version de test, ne pas utiliser avec des données sensibles.
