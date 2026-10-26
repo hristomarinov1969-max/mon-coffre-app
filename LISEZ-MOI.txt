@@ -1,0 +1,8 @@
+MarSe V9 TEST — Ne pas utiliser de vrais mots de passe ou documents confidentiels.
+Déployer les 6 fichiers à la racine du dépôt GitHub Pages existant.
+Avant déploiement : sauvegarder le dépôt et exporter la sauvegarde .mcoffre V8.6.
+Les documents sont stockés chiffrés dans IndexedDB, les mots de passe restent dans le stockage V8.6.
+Sauvegardes distinctes : .mcoffre (mots de passe) et .mardocs (documents).
+Limite par fichier : 8 Mo. Ne pas effacer les données du navigateur sans sauvegarde vérifiée.
+Le changement du mot de passe principal avec des documents n’est pas encore pris en charge.
+Le partage en clair peut laisser des copies dans les applications destinataires.
