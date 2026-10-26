@@ -1,6 +1,6 @@
 // Mon Coffre V8.3 — mise à jour du cache des fichiers publics uniquement.
 // Les fiches chiffrées restent dans le stockage local, hors de ce cache.
-const CACHE = 'moncoffre-marse-v9-2-logo-final';
+const CACHE = 'moncoffre-marse-v9-3-docs';
 const ASSETS = ['./index.html', './manifest.webmanifest', './icon-192-v9-2-final.png', './icon-512-v9-2-final.png', './icon-192-v9-1.png', './icon-512-v9-1.png', './version.json'];
 
 self.addEventListener('install', event => {

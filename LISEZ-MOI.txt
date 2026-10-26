@@ -1,3 +1,3 @@
-MarSe V9.2 — logo définitif fourni par le créateur.
-Importer tous les fichiers de ce dossier à la racine du dépôt GitHub.
-Ne pas désinstaller l’application ni effacer les données avant sauvegardes vérifiées.
+MarSe V9.3 — disposition validée.
+Documents masqués au départ; recherche et Afficher tout; dossiers et fichiers après clic; importer/exporter en bas; Mots de passe à gauche et Verrouiller à droite, hors cadre.
+Ne pas utiliser avec des données sensibles réelles.
