@@ -1,8 +1,7 @@
-MarSe V9 TEST — Ne pas utiliser de vrais mots de passe ou documents confidentiels.
-Déployer les 6 fichiers à la racine du dépôt GitHub Pages existant.
-Avant déploiement : sauvegarder le dépôt et exporter la sauvegarde .mcoffre V8.6.
-Les documents sont stockés chiffrés dans IndexedDB, les mots de passe restent dans le stockage V8.6.
-Sauvegardes distinctes : .mcoffre (mots de passe) et .mardocs (documents).
-Limite par fichier : 8 Mo. Ne pas effacer les données du navigateur sans sauvegarde vérifiée.
-Le changement du mot de passe principal avec des documents n’est pas encore pris en charge.
-Le partage en clair peut laisser des copies dans les applications destinataires.
+MarSe V9 TEST — corrections interface
+
+Modifications : Documents au-dessus de Paramètres ; microphone compact ; déplacement de document vers un dossier ; bouton Fermer dans la visionneuse ; version affichée V9 ; cache actualisé.
+
+Les fichiers icon-192.png et icon-512.png sont inclus. Android peut conserver une ancienne icône même après mise à jour : vérifier le manifest et l’installation sans supprimer les données de l’application.
+
+ATTENTION : TEST UNIQUEMENT. Les noms et dossiers des documents ne sont pas chiffrés. Les documents et les mots de passe ont des sauvegardes distinctes. Ne pas utiliser de vrais documents sensibles. Ne pas désinstaller l’application ni effacer les données du site.
