@@ -1,7 +1,3 @@
-MarSe V9 TEST — corrections interface
-
-Modifications : Documents au-dessus de Paramètres ; microphone compact ; déplacement de document vers un dossier ; bouton Fermer dans la visionneuse ; version affichée V9 ; cache actualisé.
-
-Les fichiers icon-192.png et icon-512.png sont inclus. Android peut conserver une ancienne icône même après mise à jour : vérifier le manifest et l’installation sans supprimer les données de l’application.
-
-ATTENTION : TEST UNIQUEMENT. Les noms et dossiers des documents ne sont pas chiffrés. Les documents et les mots de passe ont des sauvegardes distinctes. Ne pas utiliser de vrais documents sensibles. Ne pas désinstaller l’application ni effacer les données du site.
+MarSe V9.2 — logo définitif fourni par le créateur.
+Importer tous les fichiers de ce dossier à la racine du dépôt GitHub.
+Ne pas désinstaller l’application ni effacer les données avant sauvegardes vérifiées.
