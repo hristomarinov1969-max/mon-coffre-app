@@ -1,1 +1,3 @@
-MarSe V9.5.1 — version de TEST.\nTrois corrections : rubriques séparées, sélection TSV, import chiffré de documents avec retour visible.\nNe pas effacer les données Chrome/IndexedDB. Conserver les originaux et sauvegardes.\nTester avec données fictives avant déploiement.\n
+MarSe V9.5.2 TEST
+Réorganisation de Mes documents : recherche en haut, dossiers colorés, documents neutres, lien discret Supprimer, suppression des commandes Ajouter un fichier redondantes. Cinq commandes de transfert conservées dans Mes documents et Paramètres.
+Avant toute mise à jour, conserver des sauvegardes chiffrées et tester avec des données fictives.
