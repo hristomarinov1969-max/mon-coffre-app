@@ -1,18 +1,1 @@
-MarSe V9.5 — version de TEST, uniquement avec des données fictives.
-
-Nouveautés :
-- Recherche bilingue des documents conservée.
-- Partage des photos : préparation du fichier à l'ouverture de la fiche afin de pouvoir lancer le partage immédiatement au clic. Test sur Samsung nécessaire.
-- PDF : aperçu conservé, bouton de téléchargement explicite pour ouverture externe lorsque le navigateur ne sait pas afficher le PDF intégré.
-- Suppression d'un dossier et de ses documents avec confirmation.
-- Sauvegardes mots de passe et documents séparées dans Paramètres.
-- Documents : sélection individuelle, par dossier, tout sélectionner, export chiffré .mardocs ou export simple avec ou sans ZIP.
-- Import simple : fichiers multiples, dossier entier (si pris en charge par le navigateur), ou ZIP standard. ZIP protégés par mot de passe non pris en charge.
-- Export ZIP sans compression (méthode STORE), pour conserver les dossiers sans compression inutile.
-
-LIMITES DE TEST :
-- Le partage Android et l'affichage PDF varient selon les applications installées et doivent être testés sur le téléphone.
-- Sans ZIP, les téléchargements multiples peuvent être bloqués par Chrome; autoriser les téléchargements multiples si demandé.
-- Certains navigateurs peuvent refuser la décompression des ZIP compressés avec DEFLATE.
-- La sauvegarde .mardocs reste distincte de la sauvegarde .mcoffre.
-- Ne pas utiliser de vraies données sensibles avant revue de sécurité et tests de restauration.
+MarSe V9.5.1 — version de TEST.\nTrois corrections : rubriques séparées, sélection TSV, import chiffré de documents avec retour visible.\nNe pas effacer les données Chrome/IndexedDB. Conserver les originaux et sauvegardes.\nTester avec données fictives avant déploiement.\n
