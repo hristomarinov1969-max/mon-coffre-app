@@ -1,8 +1,3 @@
-MarSe V9.5.4 — version de test
-
-- Traductions FR / БГ des commandes principales de Mes documents et des transferts dans Paramètres.
-- Boutons de transfert Documents en grille 2 x 2, comme Mots de passe.
-- Retrait du bandeau bordeaux V8; sous-titre mis à jour.
-- Aucune modification volontaire du format des données ou des sauvegardes.
-
-Attention : version de test. Utiliser des documents et mots de passe fictifs. Conserver ses sauvegardes chiffrées.
+MarSe V9.5.5 - correctif ouverture Documents et traduction BG.
+Correction de la fonction de traduction accessible depuis le changement de langue.
+Ne supprimez pas les donnees du navigateur.
