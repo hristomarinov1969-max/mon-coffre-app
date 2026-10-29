@@ -1,3 +1,8 @@
-MarSe V9.5.2 TEST
-Réorganisation de Mes documents : recherche en haut, dossiers colorés, documents neutres, lien discret Supprimer, suppression des commandes Ajouter un fichier redondantes. Cinq commandes de transfert conservées dans Mes documents et Paramètres.
-Avant toute mise à jour, conserver des sauvegardes chiffrées et tester avec des données fictives.
+MarSe V9.5.3 — version de test
+
+- Traductions FR / БГ des commandes principales de Mes documents et des transferts dans Paramètres.
+- Boutons de transfert Documents en grille 2 x 2, comme Mots de passe.
+- Retrait du bandeau bordeaux V8; sous-titre mis à jour.
+- Aucune modification volontaire du format des données ou des sauvegardes.
+
+Attention : version de test. Utiliser des documents et mots de passe fictifs. Conserver ses sauvegardes chiffrées.
