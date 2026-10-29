@@ -1,1 +1,7 @@
-MarSe V9.5.6 : corrige une erreur JavaScript à l’initialisation qui empêchait le bouton Documents de fonctionner et de se traduire. Aucun changement de format de stockage.
+MarSe V1.0 RC1 — CANDIDATE DE TEST, PAS VERSION CERTIFIÉE.
+
+Avant migration : exporter les documents en .mardocs chiffré, vérifier la sauvegarde sur un autre appareil de test.
+Dans Mes documents : cliquer « Chiffrer les anciens noms » seulement après la sauvegarde. La migration est atomique pour les métadonnées existantes. Les nouvelles fiches documents ont leurs métadonnées chiffrées.
+NE PAS effacer les données du navigateur. Ne pas utiliser de vraies données sensibles avant validation.
+
+Cette version conserve les formats .mardocs et .mcoffre.
