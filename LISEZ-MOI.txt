@@ -1,4 +1,4 @@
-MarSe V9.5.3 — version de test
+MarSe V9.5.4 — version de test
 
 - Traductions FR / БГ des commandes principales de Mes documents et des transferts dans Paramètres.
 - Boutons de transfert Documents en grille 2 x 2, comme Mots de passe.
