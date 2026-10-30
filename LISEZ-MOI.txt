@@ -1,9 +1,2 @@
-MarSe V1.0 RC2 — VERSION DE TEST (données fictives uniquement)
-
-Correction : recherche des documents français/bulgare, y compris certificat / сертификат et Castorama / Касторама.
-Recherche accent-insensible et translittération cyrillique/latin conservées.
-Aucune modification du format de stockage, du chiffrement des métadonnées ou des données existantes.
-
-Installation : remplacer les fichiers sur GitHub Pages, puis recharger (Ctrl+F5 sur PC). Ne pas effacer les données du navigateur.
-Tests : vérifier recherche en FR et BG, ouverture de fichiers, dossiers et partage Android.
-Cette version n'est pas auditée ni certifiée pour de vraies données sensibles.
+MarSe V1.0 RC3 — test
+Langues BG / FR / EN avec sélection active turquoise et préférence locale. Recherche des fiches de mots de passe : Castorama / касторама. Chiffrement et stockage inchangés. Version de test : utiliser uniquement des données fictives.
