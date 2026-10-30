@@ -1,2 +1,2 @@
-MarSe V1.0 RC3 — test
-Langues BG / FR / EN avec sélection active turquoise et préférence locale. Recherche des fiches de mots de passe : Castorama / касторама. Chiffrement et stockage inchangés. Version de test : utiliser uniquement des données fictives.
+MarSe V1.0 RC4 — Correctifs de traduction BG/FR/EN, bouton retour documents, boutons Afficher/Copier dans les fiches et correction de recherche Castorama/касторама.
+Version de test : synchronisation cloud NON implémentée. Utiliser uniquement des données fictives.
