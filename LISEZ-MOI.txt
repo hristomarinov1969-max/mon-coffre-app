@@ -1,7 +1,9 @@
-MarSe V1.0 RC1 — CANDIDATE DE TEST, PAS VERSION CERTIFIÉE.
+MarSe V1.0 RC2 — VERSION DE TEST (données fictives uniquement)
 
-Avant migration : exporter les documents en .mardocs chiffré, vérifier la sauvegarde sur un autre appareil de test.
-Dans Mes documents : cliquer « Chiffrer les anciens noms » seulement après la sauvegarde. La migration est atomique pour les métadonnées existantes. Les nouvelles fiches documents ont leurs métadonnées chiffrées.
-NE PAS effacer les données du navigateur. Ne pas utiliser de vraies données sensibles avant validation.
+Correction : recherche des documents français/bulgare, y compris certificat / сертификат et Castorama / Касторама.
+Recherche accent-insensible et translittération cyrillique/latin conservées.
+Aucune modification du format de stockage, du chiffrement des métadonnées ou des données existantes.
 
-Cette version conserve les formats .mardocs et .mcoffre.
+Installation : remplacer les fichiers sur GitHub Pages, puis recharger (Ctrl+F5 sur PC). Ne pas effacer les données du navigateur.
+Tests : vérifier recherche en FR et BG, ouverture de fichiers, dossiers et partage Android.
+Cette version n'est pas auditée ni certifiée pour de vraies données sensibles.
