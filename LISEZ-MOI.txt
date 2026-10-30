@@ -1,1 +1,1 @@
-MarSe V1.0 RC5 — correctif de régression : ouverture des paramètres en anglais, dictionnaire anglais initialisé, traductions BG/FR/EN des boutons Documents et Settings. Données locales et format chiffré inchangés. Version de test.
+MarSe V1.0 RC6 — correctif ciblé Settings EN, Documents EN, vérification des mises à jour avec version.json au format texte. Données locales et formats chiffrés inchangés. Version de test uniquement.
