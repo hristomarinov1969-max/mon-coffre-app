@@ -1,2 +1,1 @@
-MarSe V1.0 RC4 — Correctifs de traduction BG/FR/EN, bouton retour documents, boutons Afficher/Copier dans les fiches et correction de recherche Castorama/касторама.
-Version de test : synchronisation cloud NON implémentée. Utiliser uniquement des données fictives.
+MarSe V1.0 RC5 — correctif de régression : ouverture des paramètres en anglais, dictionnaire anglais initialisé, traductions BG/FR/EN des boutons Documents et Settings. Données locales et format chiffré inchangés. Version de test.
